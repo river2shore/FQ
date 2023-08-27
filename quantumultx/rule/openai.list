@@ -1,0 +1,9 @@
+# NAME: OpenAI
+
+HOST,cdn.auth0.com
+HOST,challenges.cloudflare.com
+HOSTapi-site.azureedge.net
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,identrust.com
+HOST-SUFFIX.com
+HOST-SUFFIXapi-site.azureedge.net
